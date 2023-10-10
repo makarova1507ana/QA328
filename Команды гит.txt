@@ -29,7 +29,8 @@ rmdir namefolder
 
 
 
-git config --global user.name "Sarah Smith"
+git config --global user.name "Sarah Smith"  - создаст глобальное имя пользователя
+git config --global user.email "SarahSmith@mail.ru" - создаст глобальный email
 
 
 
