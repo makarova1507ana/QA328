@@ -1,5 +1,6 @@
 # QA328
 Занятия + Полезные материалы <br>
+[ВВЕдение в ООП](https://anastasiyas-organization-2.gitbook.io/oop/)<br>
 <h3>старт занятий по питону</h3>
 https://drive.google.com/drive/folders/1zgHOpKSBcEoZq_HdW7oaD83fnm3Gl2M-?usp=drive_link 
 <br>
